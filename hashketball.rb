@@ -168,12 +168,3 @@ end
 end
 
  big_shoe_rebounds("Charlotte Hornets")
-
-
-
-
-
-
-
-
-
